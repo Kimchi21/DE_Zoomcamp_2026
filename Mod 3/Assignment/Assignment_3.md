@@ -111,7 +111,7 @@ FROM `dlt_yellow_taxi_dataset.yellow_taxi`;
 
 ### Question 6:
 
-#### Not Partiioned
+#### Not Partioned
 ```SQL
 -- not partitioned
 SELECT DISTINCT VendorID
@@ -122,7 +122,7 @@ When executing the external table this will return 310.24 MB when executed.
 
 ![Question 6](Q6.1.png)
 
-#### Partiioned
+#### Partioned
 
 ```SQL
 -- partitioned
