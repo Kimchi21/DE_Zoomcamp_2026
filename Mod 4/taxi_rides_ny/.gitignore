@@ -5,3 +5,6 @@ logs/
 
 # Data directory
 data/
+
+# duckdb
+*.duckdb
