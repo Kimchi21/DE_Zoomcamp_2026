@@ -9,3 +9,5 @@ sources:
         description: "Raw data for yellow taxi rides in New York City."
       - name: green_tripdata
         description: "Raw data for green taxi rides in New York City."
+      - name: fhv_tripdata
+        description: "Raw data for for-hire vehicle (FHV) rides in New York City."
