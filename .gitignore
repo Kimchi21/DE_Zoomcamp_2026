@@ -1,2 +1,15 @@
 # Data directory
 data/
+
+.bruin.yml
+logs/runs
+logs/*.log
+__pycache__/
+*.py[cod]
+
+# duckdb databases
+*.duckdb
+*.db
+
+# log files
+/logs/
