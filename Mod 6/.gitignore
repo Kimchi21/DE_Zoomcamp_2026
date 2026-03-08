@@ -1,0 +1,7 @@
+# ipynb checkpoints
+.ipynb_checkpoints/
+fhvhv/
+
+# files
+*csv
+*.gz
