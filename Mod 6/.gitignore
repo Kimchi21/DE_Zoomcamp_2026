@@ -1,7 +1,9 @@
-# ipynb checkpoints
+# folders
 .ipynb_checkpoints/
 fhvhv/
+yellow/
 
 # files
 *csv
 *.gz
+*.parquet
