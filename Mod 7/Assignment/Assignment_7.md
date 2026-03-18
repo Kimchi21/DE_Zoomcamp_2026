@@ -35,7 +35,7 @@ CREATE TABLE aggregated_pickup_location (
 );
 ```
 
-![Question 4_Bob](Q4_Job.png)
+![Question 4_Job](Q4_Job.png)
 
 ![Question 4](Q4.png)
 
@@ -55,7 +55,7 @@ CREATE TABLE aggregated_longest_streak (
 );
 ```
 
-![Question 5_Job](Q5_Job.png)
+![Question 5_Job](Q5_job.png)
 
 ![Question 5](Q5.png)
 
@@ -75,6 +75,6 @@ CREATE TABLE aggregated_tips_per_hour (
 ```
 
 
-![Question 6_Bob](Q6_Job.png)
+![Question 6_Job](Q6_Job.png)
 
 ![Question 6](Q6.png)
