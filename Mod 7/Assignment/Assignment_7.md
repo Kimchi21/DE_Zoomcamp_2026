@@ -55,7 +55,7 @@ CREATE TABLE aggregated_longest_streak (
 );
 ```
 
-![Question 5_Bob](Q5_Job.png)
+![Question 5_Job](Q5_Job.png)
 
 ![Question 5](Q5.png)
 
